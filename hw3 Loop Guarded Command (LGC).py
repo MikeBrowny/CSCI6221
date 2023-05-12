@@ -61,6 +61,8 @@ lgc_program()
 
 
 '''
+RANDOM!
+
 Enter the first number: 
 3
 Enter the second number: 
